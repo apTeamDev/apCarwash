@@ -1,5 +1,8 @@
 # Carwash By Anarchy Team
 
+# ⭐ Développeur:
+- [Main Team | Owner] <a href="https://github.com/Azk0rn" title="Lien GitHub Shimotsuki">Shimotsuki</a>
+
 ## Fr Présentation 
 - Langues Disponible : Anglais, Allemand, Français, Italien, Espagnol
 - Optimisation : 0.01 | 0.20 
